@@ -1,0 +1,12 @@
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Domain\bin\Debug\net8.0\CleanArchitectureMaui.Domain.deps.json
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Domain\bin\Debug\net8.0\CleanArchitectureMaui.Domain.dll
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Domain\bin\Debug\net8.0\CleanArchitectureMaui.Domain.pdb
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Domain\obj\Debug\net8.0\CleanArchitectureMaui.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Domain\obj\Debug\net8.0\CleanArchitectureMaui.Domain.AssemblyInfoInputs.cache
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Domain\obj\Debug\net8.0\CleanArchitectureMaui.Domain.AssemblyInfo.cs
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Domain\obj\Debug\net8.0\CleanArchitectureMaui.Domain.csproj.CoreCompileInputs.cache
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Domain\obj\Debug\net8.0\CleanArchitectureMaui.Domain.dll
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Domain\obj\Debug\net8.0\refint\CleanArchitectureMaui.Domain.dll
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Domain\obj\Debug\net8.0\CleanArchitectureMaui.Domain.pdb
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Domain\obj\Debug\net8.0\ref\CleanArchitectureMaui.Domain.dll
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Domain\obj\Debug\net8.0\CleanArchitectureMaui.Domain.csproj.AssemblyReference.cache
