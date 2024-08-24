@@ -1,0 +1,15 @@
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\bin\Debug\net8.0\CleanArchitectureMaui.Application.deps.json
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\bin\Debug\net8.0\CleanArchitectureMaui.Application.dll
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\bin\Debug\net8.0\CleanArchitectureMaui.Application.pdb
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\bin\Debug\net8.0\CleanArchitectureMaui.Domain.dll
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\bin\Debug\net8.0\CleanArchitectureMaui.Domain.pdb
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\obj\Debug\net8.0\CleanArchitectureMaui.Application.csproj.AssemblyReference.cache
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\obj\Debug\net8.0\CleanArchitectureMaui.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\obj\Debug\net8.0\CleanArchitectureMaui.Application.AssemblyInfoInputs.cache
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\obj\Debug\net8.0\CleanArchitectureMaui.Application.AssemblyInfo.cs
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\obj\Debug\net8.0\CleanArchitectureMaui.Application.csproj.CoreCompileInputs.cache
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\obj\Debug\net8.0\CleanArc.DD0F6550.Up2Date
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\obj\Debug\net8.0\CleanArchitectureMaui.Application.dll
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\obj\Debug\net8.0\refint\CleanArchitectureMaui.Application.dll
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\obj\Debug\net8.0\CleanArchitectureMaui.Application.pdb
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Application\obj\Debug\net8.0\ref\CleanArchitectureMaui.Application.dll
