@@ -1,0 +1,17 @@
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\bin\Debug\net8.0\CleanArchitectureMaui.Persistence.deps.json
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\bin\Debug\net8.0\CleanArchitectureMaui.Persistence.runtimeconfig.json
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\bin\Debug\net8.0\CleanArchitectureMaui.Persistence.dll
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\bin\Debug\net8.0\CleanArchitectureMaui.Persistence.pdb
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\bin\Debug\net8.0\CleanArchitectureMaui.Domain.dll
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\bin\Debug\net8.0\CleanArchitectureMaui.Domain.pdb
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\obj\Debug\net8.0\CleanArchitectureMaui.Persistence.csproj.AssemblyReference.cache
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\obj\Debug\net8.0\CleanArchitectureMaui.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\obj\Debug\net8.0\CleanArchitectureMaui.Persistence.AssemblyInfoInputs.cache
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\obj\Debug\net8.0\CleanArchitectureMaui.Persistence.AssemblyInfo.cs
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\obj\Debug\net8.0\CleanArchitectureMaui.Persistence.csproj.CoreCompileInputs.cache
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\obj\Debug\net8.0\CleanArc.A2F4F25B.Up2Date
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\obj\Debug\net8.0\CleanArchitectureMaui.Persistence.dll
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\obj\Debug\net8.0\refint\CleanArchitectureMaui.Persistence.dll
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\obj\Debug\net8.0\CleanArchitectureMaui.Persistence.pdb
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\obj\Debug\net8.0\CleanArchitectureMaui.Persistence.genruntimeconfig.cache
+D:\WorkTable\BSUIR\isp_sem4\Lab5-1\net-maui-clean-architecture-main\CleanArchitectureMaui.Persistence\obj\Debug\net8.0\ref\CleanArchitectureMaui.Persistence.dll
